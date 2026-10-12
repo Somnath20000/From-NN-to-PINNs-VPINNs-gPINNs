@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: Giri
     given-names: Somnath
-    affiliation: "School of Mathematical and Statistical Sciences, IIT Mandi, India"
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # add your ORCID here
+    affiliation: "School of Mathematical and Statistical Sciences, IIT Mandi, Himachal Pradesh, 175005, India"
+    orcid: "https://orcid.org/0009-0004-9829-3805"  
 repository-code: "https://github.com/Somnath20000/From-NN-to-PINNs-VPINNs-gPINNs"
 version: 1.0.0
 date-released: 2026-10-07
@@ -16,7 +16,8 @@ keywords:
   - gradient-enhanced PINNs
   - scientific machine learning
   - PyTorch
-# After creating a GitHub release, archive it on Zenodo and add the DOI:
-# identifiers:
-#   - type: doi
-#     value: 10.5281/zenodo.XXXXXXX
+
+   identifiers:
+     - type: doi
+       value: 10.5281/zenodo.23316186
+       description: Zenodo archive (all versions)
