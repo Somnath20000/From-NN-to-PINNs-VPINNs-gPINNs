@@ -1,0 +1,6 @@
+{
+  "PDE loss at training points": 0.010742018346002769,
+  "PDE loss at unseen points": 67.72281366309876,
+  "ratio unseen / training": 6304.477564805055,
+  "rel. L2 error of u": 0.17624022939095282
+}

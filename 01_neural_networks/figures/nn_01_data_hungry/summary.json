@@ -1,0 +1,9 @@
+{
+  "dense: rel. L2 error of u on [0,1]": 0.011646232250583338,
+  "dense: rel. L2 error of u on [1,1.3] (extrap.)": 1.1030450056181815,
+  "dense: rel. L2 error of u' on [0,1]": 0.07322013852483977,
+  "sparse: rel. L2 error of u on [0,1]": 0.29045149699583517,
+  "sparse: rel. L2 error of u on [1,1.3] (extrap.)": 1.6578489617644765,
+  "sparse: rel. L2 error of u' on [0,1]": 0.5380768021236452,
+  "sparse: final training loss": 4.1766656822241933e-05
+}

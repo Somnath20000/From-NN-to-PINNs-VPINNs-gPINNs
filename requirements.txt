@@ -1,0 +1,8 @@
+# Tested with Python 3.11-3.13, PyTorch 2.x (CPU is enough for every script).
+# For a smaller CPU-only PyTorch install:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+pytest>=7.0

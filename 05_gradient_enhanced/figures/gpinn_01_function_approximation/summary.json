@@ -1,0 +1,16 @@
+{
+  "plain NN (w = 0): rel. L2 error of u": 0.2244779337257199,
+  "plain NN (w = 0): rel. L2 error of u'": 0.47438464580882744,
+  "gNN, w = 0.01: rel. L2 error of u": 0.02274195917635082,
+  "gNN, w = 0.01: rel. L2 error of u'": 0.05496012442182984,
+  "gNN, w = 0.1: rel. L2 error of u": 0.027656801759071568,
+  "gNN, w = 0.1: rel. L2 error of u'": 0.06603231865575866,
+  "gNN, w = 1.0: rel. L2 error of u": 0.02817253132990854,
+  "gNN, w = 1.0: rel. L2 error of u'": 0.03361271499561663,
+  "gNN, learnable (naive): rel. L2 error of u": 0.023491245993547624,
+  "gNN, learnable (naive): rel. L2 error of u'": 0.026854140309009043,
+  "gNN, learnable (naive): final (effective) weight": 0.3827484202905383,
+  "gNN, learnable (uncertainty): rel. L2 error of u": 0.021498140724665837,
+  "gNN, learnable (uncertainty): rel. L2 error of u'": 0.0162261472188409,
+  "gNN, learnable (uncertainty): final (effective) weight": 0.00018294319102944305
+}

@@ -1,0 +1,4 @@
+{
+  "hp-VPINN (4x4 elements, K=10): rel. L2 error": 0.020884766811357907,
+  "PINN (100 points): rel. L2 error": 0.618536113927739
+}

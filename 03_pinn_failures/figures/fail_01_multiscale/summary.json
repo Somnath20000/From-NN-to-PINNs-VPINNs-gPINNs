@@ -1,0 +1,12 @@
+{
+  "(a) single-scale: rel. L2 error": 0.0006981133959748086,
+  "(b) multi-scale, seed 1: rel. L2 error": 0.04608504703607794,
+  "(b) multi-scale, seed 1: final PDE loss": 0.02756068984651815,
+  "(b) multi-scale, seed 2: rel. L2 error": 0.7059452852094675,
+  "(b) multi-scale, seed 2: final PDE loss": 0.024354426138787185,
+  "(b) multi-scale, seed 3: rel. L2 error": 0.1501209655216743,
+  "(b) multi-scale, seed 3: final PDE loss": 0.022404461417577223,
+  "(b) multi-scale, seed 4: rel. L2 error": 0.023259229316052465,
+  "(b) multi-scale, seed 4: final PDE loss": 0.015598072308342863,
+  "(b) best / worst rel. L2 error over seeds": "2.33e-02 / 7.06e-01"
+}

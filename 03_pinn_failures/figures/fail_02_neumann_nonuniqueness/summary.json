@@ -1,0 +1,13 @@
+{
+  "(a) seed 1: final total loss": 2.6466941852447587e-07,
+  "(a) seed 1: constant C picked": 3.5721,
+  "(a) seed 1: rel. L2 error vs 1 - x^2": 4.891633632405705,
+  "(a) seed 2: final total loss": 2.3477478855974704e-07,
+  "(a) seed 2: constant C picked": 3.373,
+  "(a) seed 2: rel. L2 error vs 1 - x^2": 4.6189985887099345,
+  "(a) seed 3: final total loss": 4.1666788985990743e-07,
+  "(a) seed 3: constant C picked": 3.7165,
+  "(a) seed 3: rel. L2 error vs 1 - x^2": 5.089309651950417,
+  "(b) with anchor: final total loss": 1.6469511165243286e-06,
+  "(b) with anchor: rel. L2 error": 3.9916477397533365e-05
+}

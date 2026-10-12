@@ -1,0 +1,23 @@
+{
+  "form 1, seed 1: rel. L2 error": 0.0022238350029293937,
+  "form 1, seed 1: final variational loss": 0.0007003553596134532,
+  "form 1, seed 2: rel. L2 error": 1.010535060455374,
+  "form 1, seed 2: final variational loss": 0.000700792006608063,
+  "form 1, seed 3: rel. L2 error": 0.00036242594818607,
+  "form 1, seed 3: final variational loss": 2.7824406476849724e-05,
+  "form 1, seed 4: rel. L2 error": 0.0012027122944776333,
+  "form 1, seed 4: final variational loss": 0.00016911114652274874,
+  "form 1: milliseconds per iteration (last seed)": 0.89,
+  "form 1: best / worst error over seeds": "3.62e-04 / 1.01e+00",
+  "form 3, seed 1: rel. L2 error": 0.0016272120962801072,
+  "form 3, seed 1: final variational loss": 0.000589687679724319,
+  "form 3, seed 2: rel. L2 error": 0.0011586831325094663,
+  "form 3, seed 2: final variational loss": 0.000555644064614422,
+  "form 3, seed 3: rel. L2 error": 0.00027955700018185317,
+  "form 3, seed 3: final variational loss": 1.5058499781055168e-05,
+  "form 3, seed 4: rel. L2 error": 0.0023878724528699465,
+  "form 3, seed 4: final variational loss": 0.000159478219826238,
+  "form 3: milliseconds per iteration (last seed)": 0.62,
+  "form 3: best / worst error over seeds": "2.80e-04 / 2.39e-03",
+  "settings": "elements=1, n_test=60, n_quad=80, epochs=20000"
+}

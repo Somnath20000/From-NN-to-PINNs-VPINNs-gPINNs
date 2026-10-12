@@ -1,0 +1,7 @@
+{
+  "final rel. L2 error": 0.004802328825665221,
+  "final error amplitude, frequency 1": 0.0008829776713286692,
+  "final error amplitude, frequency 10": 0.0003695952038647589,
+  "first iteration with low-freq error < 0.05": 300,
+  "first iteration with high-freq error < 0.05": 3400
+}

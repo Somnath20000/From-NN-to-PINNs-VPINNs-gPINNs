@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code in teaching or research, please cite it as below."
+title: "From Neural Networks to PINNs, VPINNs and gPINNs: a step-by-step tutorial"
+type: software
+authors:
+  - family-names: Giri
+    given-names: Somnath
+    affiliation: "School of Mathematical and Statistical Sciences, IIT Mandi, India"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # add your ORCID here
+repository-code: "https://github.com/Somnath20000/From-NN-to-PINNs-VPINNs-gPINNs"
+version: 1.0.0
+date-released: 2026-10-07
+keywords:
+  - physics-informed neural networks
+  - variational PINNs
+  - gradient-enhanced PINNs
+  - scientific machine learning
+  - PyTorch
+# After creating a GitHub release, archive it on Zenodo and add the DOI:
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.XXXXXXX

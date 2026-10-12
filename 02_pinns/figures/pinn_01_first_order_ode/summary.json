@@ -1,0 +1,5 @@
+{
+  "PINN rel. L2 error": 0.0009733469369666467,
+  "plain NN (4 points) rel. L2 error": 0.04973887169685091,
+  "PINN final ODE residual loss": 3.1559629873474925e-05
+}

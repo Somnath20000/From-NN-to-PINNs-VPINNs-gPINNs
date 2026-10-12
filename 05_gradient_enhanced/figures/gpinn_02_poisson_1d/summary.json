@@ -1,0 +1,6 @@
+{
+  "PINN rel. L2 error of u": 0.029833224651447342,
+  "gPINN rel. L2 error of u": 0.0030757769425120386,
+  "PINN rel. L2 error of u'": 0.09856746123489604,
+  "gPINN rel. L2 error of u'": 0.0075149157800950845
+}

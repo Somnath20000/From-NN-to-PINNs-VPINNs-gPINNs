@@ -1,0 +1,9 @@
+{
+  "(penalty) rel. L2 error": 0.0032875900937537617,
+  "(penalty) final loss": 1.915658191674502e-05,
+  "(natural) rel. L2 error": 8.54634558969926e-05,
+  "(natural) final loss": 1.962208891979583e-06,
+  "(natural, no anchor) rel. L2 error": 4.122390742932291,
+  "(natural, no anchor) final loss": 4.6924152053408635e-07,
+  "(natural, no anchor) constant offset C": 3.0104
+}
