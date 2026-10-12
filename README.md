@@ -1,0 +1,1 @@
+# From-NN-to-PINNs-VPINNs-gPINNs
