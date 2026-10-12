@@ -1,5 +1,7 @@
 # From Neural Networks to PINNs, VPINNs and gPINNs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.CONCEPT_NUMBER.svg)](https://doi.org/10.5281/zenodo.23316186)
+   
 **A step-by-step, fully reproducible PyTorch tutorial that shows *why* each method was invented by showing *where the previous one fails*.**
 
 [![tests](https://github.com/Somnath20000/From-NN-to-PINNs-VPINNs-gPINNs/actions/workflows/tests.yml/badge.svg)](https://github.com/Somnath20000/From-NN-to-PINNs-VPINNs-gPINNs/actions/workflows/tests.yml)
